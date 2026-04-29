@@ -1,3 +1,5 @@
+# Project on hold untill further notice.
+
 # OrinexOS
 
 OrinexOS is a small, structured, and efficient operating system designed with clarity and performance in mind. The project focuses on simplicity, making it easier to understand core OS concepts without unnecessary complexity. With a small focus on early code execution.
